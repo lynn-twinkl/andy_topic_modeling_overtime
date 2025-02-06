@@ -156,7 +156,6 @@ cython_debug/
 
 #Local Files
 .DS_Store
-*.csv
 config.py
 
 
