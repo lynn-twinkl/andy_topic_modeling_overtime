@@ -157,7 +157,7 @@ cython_debug/
 #Local Files
 .DS_Store
 config.py
-
+*.csv
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
