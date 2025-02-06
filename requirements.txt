@@ -13,3 +13,4 @@ contractions
 openai
 voila
 ipywidgets
+textblob
